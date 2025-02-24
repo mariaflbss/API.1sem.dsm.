@@ -19,7 +19,7 @@ Curso:
 | - | - | - |
 |Scrum Master (SM)| Maria Fernanda de Oliveira Laboissiere |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mariaflbss)|
 |Product Owner (PO)| Rafael Guimarães da Silva Oliveira  | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/PatoJosefo)|
-|Dev Team| Giovanni Martins de Melo Neves| [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Dev Team| Giovanni Martins de Melo Neves| [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Giommn)|
 |Dev Team| Heloisa Cardillo Lima | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/heloisa-cardillo)|
 |Dev Team| João Eduardo Oliveira Santos | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Dev Team| Vinicius Silva Moreira | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
