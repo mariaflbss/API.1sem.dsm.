@@ -2,7 +2,7 @@
 
 Nome do grupo:
 
-Curso:
+Curso: Desenvolvimento de Software Multiplataforma
 
 # Índice
 
@@ -90,7 +90,7 @@ Curso:
 > descrição e exemplo abaixo
 
 <p align="center">
- <img src="https://gopratico.com.br/wp-content/uploads/2022/11/backlog-de-produto.png" width="100%"/>
+ <img src="https:/.....png" width="100%"/>
 </p>
 
 
@@ -98,12 +98,16 @@ Curso:
 
 
 # Tecnologias e ferramentas ultilizadas
+> descrição
+<p align='center'>
+<img scr='modelo canva com as ferramentas e tec' width 50%>
+</p>
 
 ### Produto 
 > Descreva aqui a parte do MVP referente a cada Sprint
 
-### Tecnológias Específicas/Apoio
+### Tecnológias Específicas
 > Liste aqui todas as tecnologias utilizadas para colcluir as entregas
   
-### Mindset Digital
+### Ferramentas
 > Liste todas as tecnologias referentes aos processos da API
