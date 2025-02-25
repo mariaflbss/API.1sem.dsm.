@@ -30,7 +30,7 @@ Curso: Desenvolvimento de Software Multiplataforma
 
   Sprint | Previsão | Status| Histórico|
  |------|--------|------|--------|
- |Kick Off | 26/02/2025 - 28/02/2025 | status | [Visualizar] (link.doc) | 
+ |Kick Off | 24/02/2025 - 28/02/2025 | status | [Visualizar] (link.doc) | 
  | Sprint 1 | 10/03/2025 - 30/03/2025 | status | [Visualizar] (link.doc) | 
  | Sprint 2|  07/04/2025 - 27/04/2025 | status | [Visualizar] (link.doc) | 
  | Sprint 3| 05/05/2025 - 25/05/2025| status | [Visualizar] (link.doc) | 
