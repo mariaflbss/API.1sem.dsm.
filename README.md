@@ -53,7 +53,7 @@ Curso: Desenvolvimento de Software Multiplataforma
 ## Sprint 4 
 >checklist
 
-> outros status
+> outros 
 
 
 # Funcionalidades e Demonstrações das Sprints
