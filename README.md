@@ -11,6 +11,7 @@ Curso: Desenvolvimento de Software Multiplataforma
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Backlog](#backlog)
+* [User Story](#user-story)
 * [Tecnologias e ferramentas utilizadas](#tecnologias-e-ferramentas-ultilizadas)
 
 
@@ -96,7 +97,16 @@ Curso: Desenvolvimento de Software Multiplataforma
 
 
 
+# User Story
+> descrição
+> 
+  | Título | User story | 
+ |------|--------|
+ |xxxxxx| xxxxxxxxx | 
 
+
+
+ 
 # Tecnologias e ferramentas ultilizadas
 > descrição
 <p align='center'>
