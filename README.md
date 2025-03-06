@@ -1,4 +1,7 @@
-# Aprendizado por Projeto Integrado (API) 1° semestre 
+# Aprendizado por Projeto Integrado (API) 1° semestre - NEXUS
+> Nome do grupo: Nexus
+>
+> Curso: Desenvolvimento de Software Multiplataforma 
 
 
 # Índice
