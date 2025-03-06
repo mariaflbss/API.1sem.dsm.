@@ -28,15 +28,7 @@
 | xxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxxx |
 
 # Tecnologias e Ferramentas Ultilizadas
-
-|![T/F 1](https://img.shields.io/badge/xxxx)|
-|![T/F 2](https://img.shields.io/badge/xxxx) |
-|![T/F 3](https://img.shields.io/badge/xxxx) | 
-|![T/F 4](https://img.shields.io/badge/xxx) |
-|![T/F 5](https://img.shields.io/badge/xx) | 
-|![ T/F 6](https://img.shields.io/badge/xxxx) | 
-|![T/F 7](https://img.shields.io/badge/xxxx) | 
-|![T/F 8](https://img.shields.io/badge/xxxxx) |
+  ![FIGMA](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) 
 
 # Sprints
 
