@@ -84,7 +84,7 @@ municípios que estejam em ascensão, estagnação ou declínio no mercado inter
 [![Sprint 3](link)]()
 
 # Protótipo
-[Clique aqui para visualizar o modelo do projeto](link figma)
+[Clique aqui para visualizar o modelo do projeto](https://www.figma.com/design/hDo9erWlNFuP3vs8ZiT6Ic/API?m=auto&t=nKZ6A3GWMeeH2L9A-1)
 
 # Autores
 | Função | Nome | GitHub | LinkedIn |
