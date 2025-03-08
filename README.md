@@ -51,7 +51,7 @@ municípios que estejam em ascensão, estagnação ou declínio no mercado inter
  | Apresentação do TG's| 16/06/2025 - 18/06/2025 | status |  
 
 # Backlog 
- [ Clique aqui para visualizar o backlog do produto](https://xxxxx)
+ [ Clique aqui para visualizar o backlog do produto](https://docs.google.com/spreadsheets/d/1o6-OmnDMC7ImMtVF0NllGRIWcRkpj7t0HuXohY0_jFA/edit?usp=sharing)
  
  ou
  
@@ -63,7 +63,7 @@ municípios que estejam em ascensão, estagnação ou declínio no mercado inter
 
  # User Story 
 
-| Título | User Story |
+| Título| User Story | 
 |--------|-----------|
 | x | xxxxxxxxxxxx |
 | x | xxxxxxxxxxxx |
