@@ -25,6 +25,8 @@
 ---
 
 # Requisitos
+🔗[Clique aqui para visualizar os requisitos do produto](https://docs.google.com/spreadsheets/d/1577bQ9jpyCqRxgzyTGT-mvgWLIiMS6ZTcPgGrkRR-Tg/edit?usp=sharing)
+
 | Requisitos Funcionais | Requisitos Não Funcionais |
 |-----------------------|---------------------------|
 | xxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxxx  |
