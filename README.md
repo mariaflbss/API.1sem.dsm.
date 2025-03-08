@@ -38,6 +38,12 @@ municípios que estejam em ascensão, estagnação ou declínio no mercado inter
 
 # Tecnologias e Ferramentas Ultilizadas
   ![FIGMA](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) 
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)
+  ![Google Colab](https://img.shields.io/badge/Google_Colab-FFFFFF?style=for-the-badge&logo=googlecolab)
+  ![Google Planilhas](https://img.shields.io/badge/Google_Sheets-FFFFFF?style=for-the-badge&logo=googlesheets)
+  
+ 
+
 
 # Sprints
 
