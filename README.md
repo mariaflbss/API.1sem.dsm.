@@ -68,8 +68,23 @@
 | Título | User Story | 
 |--------|------------|
 | Lista de dados de exportação de todos os municípios de São Paulo | xxxxxxxxxxxx |
-| x | xxxxxxxxxxxx |
-| x | xxxxxxxxxxxx |
+| Filtrar as cargas dos municípios de São Paulo entre os anos de 2019 até 2024 | xxxxxxxxxxxx |
+| Criar um gráfico de exportação dos municípios de São Paulo | xxxxxxxxxxxx |
+| Criar um gráfico com as 5 maiores exportações de cada município | xxxxxxxxxxxx |
+| Responsividade | xxxxxxxxxxxx |
+| Comparar desempenho comercial de municípios | xxxxxxxxxxxx |
+| Produtos mais exportados dos municípios do estado de São Paulo | xxxxxxxxxxxx |
+| Influências de mudanças de políticas tarifárias em exportações | xxxxxxxxxxxx |
+| Diversidade de produtos exportados | xxxxxxxxxxxx |
+| Exibir valores da balança comercial | xxxxxxxxxxxx |
+| Impactos das vias de transporte nas importações e exportações | xxxxxxxxxxxx |
+| Exibir padrões de variações sazonais de oferta e demanda que afetam empresas | xxxxxxxxxxxx |
+| Comparação da qualidade dos produtos nacionais em mercados internacionais | xxxxxxxxxxxx |
+| Mapeamento dos principais fornecedores de cada município de São Paulo | xxxxxxxxxxxx |
+| Apresentar riscos ocasionais causados pela dependência de mercados específicos | xxxxxxxxxxxx |
+| Criar projeções do desempenho comercial futuro de cada município de São Paulo | xxxxxxxxxxxx |
+| Correção da inflação | xxxxxxxxxxxx |
+| Ferramenta de busca para filtrar cargas por código NCM e aplicar filtros | xxxxxxxxxxxx |
 
 ---
 
