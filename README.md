@@ -59,7 +59,7 @@
 ---
 
 # Backlog 
-🔗[Clique aqui para visualizar o backlog do produto](https://docs.google.com/spreadsheets/d/1o6-OmnDMC7ImMtVF0NllGRIWcRkpj7t0HuXohY0_jFA/edit?usp=sharing)
+🔗[Clique aqui para visualizar o backlog do produto](https://docs.google.com/spreadsheets/d/1E7RuFhJ5bi-8nax7y87k7zGJ2A_NBVDxnHbVd0v4pT0/edit?gid=0#gid=0)
 
 ---
 
