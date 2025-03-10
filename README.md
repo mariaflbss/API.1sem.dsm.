@@ -54,7 +54,6 @@
 | Sprint 2 | 07/04/2025 - 27/04/2025 | Status |  
 | Sprint 3 | 05/05/2025 - 25/05/2025 | Status |  
 | Feira de Soluções | 29/06/2025 | Status |  
-| Apresentação do TG's | 16/06/2025 - 18/06/2025 | Status |  
 
 ---
 
