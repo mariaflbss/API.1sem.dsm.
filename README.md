@@ -67,7 +67,7 @@
 
 | Título | User Story | 
 |--------|------------|
-| x | xxxxxxxxxxxx |
+| Lista de dados de exportação de todos os municípios de São Paulo | xxxxxxxxxxxx |
 | x | xxxxxxxxxxxx |
 | x | xxxxxxxxxxxx |
 
