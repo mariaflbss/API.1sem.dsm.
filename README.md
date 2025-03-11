@@ -37,7 +37,7 @@
 
 ---
 
-# Tecnologias e Ferramentas Utilizadas
+#  Tecnologias e Ferramentas Utilizadas
 ![FIGMA](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-FFFFFF?style=for-the-badge&logo=googlecolab)
@@ -114,11 +114,17 @@
 
 > **Imagens do protótipo**
 
-![image1](https://github.com/user-attachments/assets/d93c4c9b-66e8-492e-9107-48504054637d)
-![image2](https://github.com/user-attachments/assets/76e46bdd-0720-4d4f-ba11-490c2e8eb2c4)
-![image3](https://github.com/user-attachments/assets/1c269558-5816-472d-9fb1-9066d3344a58)
-![image](https://github.com/user-attachments/assets/15daf29c-de15-400e-b814-d0fc992dfd6f)
-![image4](https://github.com/user-attachments/assets/17a0ca76-91f8-4c2e-b64a-723bda3b2c71)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/d93c4c9b-66e8-492e-9107-48504054637d" width="500" />
+  <img src="https://github.com/user-attachments/assets/76e46bdd-0720-4d4f-ba11-490c2e8eb2c4" width="500" />
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/1c269558-5816-472d-9fb1-9066d3344a58" width="500" />
+  <img src="https://github.com/user-attachments/assets/15daf29c-de15-400e-b814-d0fc992dfd6f" width="500" />
+  <img src="https://github.com/user-attachments/assets/17a0ca76-91f8-4c2e-b64a-723bda3b2c71" width="500" />
+</div>
 
 ---
 
@@ -135,3 +141,4 @@
 | Team Member | Victor Chagas de Jesus | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/victorchagas-93) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](INSIRA_O_LINK_AQUI) |
 
 ---
+[Voltar ao topo](#aprendizado-por-projeto-integrado-api-1-semestre---nexus)
