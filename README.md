@@ -90,9 +90,9 @@
 # Funcionalidade e Registro das Sprints 
 
 **Sprint 1**  
-- [ ] Tarefa pendente  
-- [ ] Tarefa pendente  
-- [ ] Tarefa pendente  
+- [ ] Criar uma lista de dados de exportação de todos os municípios de São Paulo 
+- [ ] Criar um gráfico de exportação dos municípios de São Paulo
+- [ ] Criar um gráfico com as 5 maiores exportações de cada município 
 - [ ] Tarefa pendente
 
 **Sprint 2**  
