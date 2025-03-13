@@ -70,7 +70,6 @@
 | Filtrar as cargas dos municípios de São Paulo entre os anos de 2019 até 2024 | Eu, como usuário, gostaria de filtrar as cargas exportadas mensalmente entre os anos de 2019 a 2024 nos municípios de São Paulo. |
 | Criar um gráfico de exportação dos municípios de São Paulo | Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados de exportação de cada município do estado de São Paulo. |
 | Criar um gráfico com as 5 maiores exportações de cada município | Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados das 5 maiores exportações de cada município do estado de São Paulo. |
-| Responsividade | Eu, como usuário, gostaria que o site fosse responsivo para todos os dispositivos. |
 | Comparar desempenho comercial de municípios | Eu, como usuário, gostaria de comparar o desempenho comercial de cada município do estado de São Paulo. |
 | Produtos mais exportados dos municípios do estado de São Paulo | Eu, como usuário, gostaria de filtrar os produtos mais exportados, provenientes de cada município do estado de São Paulo. |
 | Influências de mudanças de políticas tarifárias em exportações | Eu, como usuário, gostaria de entender as influências das mudanças de políticas tarifárias nas exportações. |
