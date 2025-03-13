@@ -25,16 +25,19 @@
 ---
 
 # Requisitos
-🔗[Clique aqui para visualizar os requisitos do produto](https://docs.google.com/spreadsheets/d/1577bQ9jpyCqRxgzyTGT-mvgWLIiMS6ZTcPgGrkRR-Tg/edit?usp=sharing)
+🔗[Clique aqui para visualizar os requisitos do produto](https://docs.google.com/spreadsheets/d/1E7RuFhJ5bi-8nax7y87k7zGJ2A_NBVDxnHbVd0v4pT0/edit?gid=1719630846#gid=1719630846)
 
-| Requisitos Funcionais | Requisitos Não Funcionais |
-|-----------------------|---------------------------|
-| xxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxxx  |
-| xxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxxx  |
-| xxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxxx  |
-| xxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxxx  |
-| xxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxxx  |
-
+|ID | Requisitos Funcionais | Requisitos Não Funcionais |
+|-----|---------------------------| --------------------|
+|RNF01| Segmentação de Município: Apresenta informações detalhadas acerca de cada mmunicípio do estado de São Paulo| Utilizar a ferramenta Google Colab para preparar a base de dados do projeto|
+|RNF02| Busca e filtros: Ferramentas que permitam buscar cargas por código NCM e aplicar filtros personalizados para análise específica | O sistemma deve ser respossivo para todos os dispositivos |
+|RNF03| Painel de Estatísticas: Visualização gráfica interatica, apresentando a evolução da balança comercial dos municípios no período de 2019 a 2024| O HTML5 deve ser utilizado para a arquitetura da informação do site|
+|RNF04|-------| Utilizar o GIthub para ter controle sob a versão dos artefatos do projeto|
+|RNF05| -------| Desenvolver o back-end utilizando a linguagem python|
+|RNF06| -------| O CSS3 deve ser utilizado para definição do layout e demais características de renderizações|
+|RNF07| -------|Desenvolver uma interface interativa e de fácil compreensão|
+|RNF08| -------|O MSQL/MariaDB devem ser utilizados como sistemas gerenciadores de banco de dados|
+|RNF09| -------|Evitar a utilização de framework de mapeamento objeto-relacional para implementação de operações em banco de dados
 ---
 
 #  Tecnologias e Ferramentas Utilizadas
@@ -42,6 +45,8 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-FFFFFF?style=for-the-badge&logo=googlecolab)
 ![Google Planilhas](https://img.shields.io/badge/Google_Sheets-FFFFFF?style=for-the-badge&logo=googlesheets)
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6) ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python)  
 
 ---
 
