@@ -76,12 +76,9 @@
 | Criar um gráfico de exportação dos municípios de São Paulo | Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados de exportação de cada município do estado de São Paulo. |
 | Criar um gráfico com as 5 maiores exportações de cada município | Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados das 5 maiores exportações de cada município do estado de São Paulo. |
 | Comparar desempenho comercial de municípios | Eu, como usuário, gostaria de comparar o desempenho comercial de cada município do estado de São Paulo. |
-| Produtos mais exportados dos municípios do estado de São Paulo | Eu, como usuário, gostaria de filtrar os produtos mais exportados, provenientes de cada município do estado de São Paulo. |
 | Influências de mudanças de políticas tarifárias em exportações | Eu, como usuário, gostaria de entender as influências das mudanças de políticas tarifárias nas exportações. |
 | Diversidade de produtos exportados | Eu, como usuário, gostaria de visualizar a diversidade de produtos exportados pelos municípios. |
-| Exibir valores da balança comercial | Eu, como usuário, gostaria de visualizar os valores da balança comercial provenientes do estado de São Paulo. |
 | Impactos das vias de transporte nas importações e exportações | Eu, como usuário, gostaria de entender como as vias de transporte afetam as importações e exportações. |
-| Exibir padrões de variações sazonais de oferta e demanda que afetam empresas | Eu, como usuário, gostaria de visualizar os padrões de variações sazonais de oferta e demanda que afetam empresas. |
 | Comparação da qualidade dos produtos nacionais em mercados internacionais | Eu, como usuário, gostaria de ter acesso a um meio de comparação de qualidade dos produtos nacionais em mercados do exterior. |
 | Mapeamento dos principais fornecedores de cada município de São Paulo | Eu, como usuário, gostaria de visualizar um mapa que apresente dados acerca dos principais fornecedores de cada município do estado de São Paulo. |
 | Apresentar riscos ocasionais causados pela dependência de mercados específicos | Eu, como usuário, gostaria de visualizar os riscos ocasionais causados pela dependência de mercados específicos. |
