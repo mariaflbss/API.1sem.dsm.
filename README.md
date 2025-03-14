@@ -71,20 +71,20 @@
 
 | Título | User Story | 
 |--------|------------|
-| Lista de dados de exportação de todos os municípios de São Paulo | Eu, como usuário, gostaria de visualizar uma lista dos municípios do estado de São Paulo e suas exportações para entender os padrões de comércio internacional |
-| Filtrar as cargas dos municípios de São Paulo entre os anos de 2019 até 2024 | Eu, como usuário, gostaria de filtrar as cargas exportadas mensalmente entre os anos de 2019 a 2024 nos municípios de São Paulo |
-| Criar um gráfico de exportação dos municípios de São Paulo | Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados de exportação de cada município do estado de São Paulo |
-| Criar um gráfico com as 5 maiores exportações de cada município | Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados das 5 maiores exportações de cada município do estado de São Paulo |
-| Comparar desempenho comercial de municípios | Eu, como usuário, gostaria de comparar o desempenho comercial de cada município do estado de São Paulo |
-| Produtos mais exportados dos municípios do estado de São Paulo | Eu, como usuário, gostaria de filtrar os produtos mais exportados, provenientes de cada município do estado de São Paulo |
-| Diversidade de produtos exportados | Eu, como usuário, gostaria de visualizar a diversidade de produtos exportados pelos municípios |
-| Exibir valores da balança comercial | Eu, como usuário, gostaria de visualizar os valores da balança comercial provenientes do estado de São Paulo |
-| Exibir padrões de variações sazonais de oferta e demanda que afetam empresas | Eu, como usuário, gostaria de visualizar os padrões de variações sazonais de oferta e demanda que afetam empresas |
-| Mapeamento dos principais fornecedores de cada município de São Paulo | Eu, como usuário, gostaria de visualizar um mapa que apresente dados acerca dos principais fornecedores de cada município do estado de São Paulo |
-| Apresentar riscos ocasionais causados pela dependência de mercados específicos | Eu, como usuário, gostaria de visualizar os riscos ocasionais causados pela dependência de mercados específicos |
-| Criar projeções do desempenho comercial futuro de cada município de São Paulo | Eu, como usuário, gostaria de visualizar projeções do desempenho comercial futuro de cada município de São Paulo |
-| Correção da inflação | Eu, como usuário, gostaria de visualizar a correção da inflação para análise de dados econômicos |
-| Ferramenta de busca para filtrar cargas por código NCM e aplicar filtros | Eu, como usuário, gostaria de ter acesso a uma ferramenta de pesquisa onde fosse possível filtrar cargas mediante seus códigos NCM e aplicar filtros |
+| Lista de dados de exportação de todos os municípios de São Paulo | Eu, como usuário, gostaria de visualizar uma lista dos municípios do estado de São Paulo e suas exportações, para entender os padrões de comércio internacional |
+| Filtrar as cargas dos municípios de São Paulo entre os anos de 2019 até 2024 | Eu, como usuário, gostaria de filtrar as cargas exportadas mensalmente entre os anos de 2019 a 2024 nos municípios de São Paulo, para ter mais conhecimento sobre as cargas exportadas entre esse período de tempo |
+| Criar um gráfico de exportação dos municípios de São Paulo | Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados de exportação de cada município do estado de São Paulo, para ter mais conhecimento sobre as exportções municipais |
+| Criar um gráfico com as 5 maiores exportações de cada município | Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados das 5 maiores exportações de cada município do estado de São Paulo,  para ter maior conhecimento sobre as exportações de cada município |
+| Comparar desempenho comercial de municípios | Eu, como usuário, gostaria de comparar o desempenho comercial de cada município do estado de São Paulo, para ter maior conhecimento sobre as disparidades entre o mercado de cada município detalhadamente |
+| Produtos mais exportados dos municípios do estado de São Paulo | Eu, como usuário, gostaria de filtrar os produtos mais exportados provenientes de cada município do estado de São Paulo, para ter mais conhecimento sobre os produtos mais importantes para  o mercado de cada município |
+| Diversidade de produtos exportados | Eu, como usuário, gostaria de visualizar a diversidade de produtos exportados pelos municípios de São Paulo, para ter maior conhecimento sobre os produtos de cada município |
+| Exibir valores da balança comercial | Eu, como usuário, gostaria de visualizar os valores da balança comercial provenientes do estado de São Paulo, para ter maior conhecimento sobre as diferenças entre as exportações e importações |
+| Exibir padrões de variações sazonais de oferta e demanda que afetam empresas | Eu, como usuário, gostaria de visualizar os padrões de variações sazonais de oferta e demanda que afetam empresas, para ter maior conhecimento sobre como as empresas são afetadas |
+| Mapeamento dos principais fornecedores de cada município de São Paulo | Eu, como usuário, gostaria de visualizar um mapa que apresente dados acerca dos principais fornecedores de cada município, para ter maior conhecimento sobre os maiores fornecedores do estado de São Paulo |
+| Apresentar riscos ocasionais causados pela dependência de mercados específicos | Eu, como usuário, gostaria de visualizar os riscos ocasionais causados pela dependência de mercados específicos, para compreender os riscos ocasionais |
+| Criar projeções do desempenho comercial futuro de cada município de São Paulo | Eu, como usuário, gostaria de visualizar projeções do desempenho comercial futuro de cada município, para entender melhor o comércio do estado de São Paulo |
+| Correção da inflação | Eu, como usuário, gostaria de visualizar a correção da inflação para análise de dados econômicos, para ter maior conhecimento sobre os ajustes para compensação da perda de valor da moeda |
+| Ferramenta de busca para filtrar cargas por código NCM e aplicar filtros | Eu, como usuário, gostaria de ter acesso a uma ferramenta de pesquisa onde fosse possível filtrar cargas mediante seus códigos NCM e aplicar filtros, para ter uma obtenção de informações facilitada |
 
 ---
 
