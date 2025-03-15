@@ -27,17 +27,78 @@
 # Requisitos
 🔗[Clique aqui para visualizar os requisitos do produto](https://docs.google.com/spreadsheets/d/1E7RuFhJ5bi-8nax7y87k7zGJ2A_NBVDxnHbVd0v4pT0/edit?gid=1719630846#gid=1719630846)
 
-|ID | Requisitos Funcionais | Requisitos Não Funcionais |
-|-----|---------------------------| --------------------|
-|RNF01| Segmentação de Município: Apresenta informações detalhadas acerca de cada mmunicípio do estado de São Paulo| Utilizar a ferramenta Google Colab para preparar a base de dados do projeto|
-|RNF02| Busca e filtros: Ferramentas que permitam buscar cargas por código NCM e aplicar filtros personalizados para análise específica | O sistemma deve ser respossivo para todos os dispositivos |
-|RNF03| Painel de Estatísticas: Visualização gráfica interatica, apresentando a evolução da balança comercial dos municípios no período de 2019 a 2024| O HTML5 deve ser utilizado para a arquitetura da informação do site|
-|RNF04|-------| Utilizar o GIthub para ter controle sob a versão dos artefatos do projeto|
-|RNF05| -------| Desenvolver o back-end utilizando a linguagem python|
-|RNF06| -------| O CSS3 deve ser utilizado para definição do layout e demais características de renderizações|
-|RNF07| -------|Desenvolver uma interface interativa e de fácil compreensão|
-|RNF08| -------|O MSQL/MariaDB devem ser utilizados como sistemas gerenciadores de banco de dados|
-|RNF09| -------|Evitar a utilização de framework de mapeamento objeto-relacional para implementação de operações em banco de dados
+
+<table style="width: 100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid #ddd;">ID</th>
+            <th style="border: 1px solid #ddd;">Requisitos Funcionais</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid #ddd;">RF01</td>
+            <td style="border: 1px solid #ddd;">Segmentação de Município: Apresenta informações detalhadas acerca de cada mmunicípio do estado de São Paulo</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">RF02</td>
+            <td style="border: 1px solid #ddd;">Busca e filtros: Ferramentas que permitam buscar cargas por código NCM e aplicar filtros personalizados para análise específica</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">RF03</td>
+            <td style="border: 1px solid #ddd;">Painel de Estatísticas: Visualização gráfica interatica, apresentando a evolução da balança comercial dos municípios no período de 2019 a 2024</td>
+        </tr>
+    </tbody>
+        <td>
+        </td>
+        <td>
+        </td>
+    <thead>
+        <tr>
+            <th style="border: 1px solid #ddd;">ID</th>
+            <th style="border: 1px solid #ddd;">Requisitos Funcionais</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid #ddd;">RNF01</td>
+            <td style="border: 1px solid #ddd;">Utilizar a ferramenta Google Colab para preparar a base de dados do projeto</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">RNF02</td>
+            <td style="border: 1px solid #ddd;">O sistemma deve ser respossivo para todos os dispositivos</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">RNF03</td>
+            <td style="border: 1px solid #ddd;">O HTML5 deve ser utilizado para a arquitetura da informação do site</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">RNF04</td>
+            <td style="border: 1px solid #ddd;">Utilizar o GIthub para ter controle sob a versão dos artefatos do projeto</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">RNF05</td>
+            <td style="border: 1px solid #ddd;">Desenvolver o back-end utilizando a linguagem Python</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">RNF06</td>
+            <td style="border: 1px solid #ddd;">O CSS3 deve ser utilizado para definição do layout e demais características de renderizações</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">RNF07</td>
+            <td style="border: 1px solid #ddd;">Desenvolver uma interface interativa e de fácil compreensão</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">RNF08</td>
+            <td style="border: 1px solid #ddd;">O MSQL/MariaDB devem ser utilizados como sistemas gerenciadores de banco de dados</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">RNF09</td>
+            <td style="border: 1px solid #ddd;">Evitar a utilização de framework de mapeamento objeto-relacional para implementação de operações em banco de dados</td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 
 #  Tecnologias e Ferramentas Utilizadas
@@ -52,13 +113,42 @@
 
 # Sprints
 
-| Sprint | Previsão | Status | 
-|--------|----------|--------|
-| Kick Off | 24/02/2025 - 28/02/2025 | Concluído |  
-| Sprint 1 | 10/03/2025 - 30/03/2025 | Status |  
-| Sprint 2 | 07/04/2025 - 27/04/2025 | Status |  
-| Sprint 3 | 05/05/2025 - 25/05/2025 | Status |  
-| Feira de Soluções | 29/06/2025 | Status |  
+<table style="width: 100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid #ddd;">Sprint</th>
+            <th style="border: 1px solid #ddd;">Previsão</th>
+            <th style="border: 1px solid #ddd;">Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid #ddd;">Kick Off</td>
+            <td style="border: 1px solid #ddd;">24/02/2025 - 28/02/2025</td>
+            <td style="border: 1px solid #ddd;">Concluído</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Sprint 1</td>
+            <td style="border: 1px solid #ddd;">10/03/2025 - 30/03/2025</td>
+            <td style="border: 1px solid #ddd;">Status</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Sprint 2</td>
+            <td style="border: 1px solid #ddd;">07/04/2025 - 27/04/2025</td>
+            <td style="border: 1px solid #ddd;">Status</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Sprint 3</td>
+            <td style="border: 1px solid #ddd;">05/05/2025 - 25/05/2025</td>
+            <td style="border: 1px solid #ddd;">Status</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Feira de Soluções</td>
+            <td style="border: 1px solid #ddd;">29/06/2025</td>
+            <td style="border: 1px solid #ddd;">Status</td>
+        </tr>
+    </tbody>
+</table>    
 
 ---
 
@@ -69,22 +159,118 @@
 
 # User Story 
 
-| Título | User Story | 
-|--------|------------|
-| Lista de dados de exportação de todos os municípios de São Paulo | Eu, como usuário, gostaria de visualizar uma lista dos municípios do estado de São Paulo e suas exportações, para entender os padrões de comércio internacional |
-| Filtrar as cargas dos municípios de São Paulo entre os anos de 2019 até 2024 | Eu, como usuário, gostaria de filtrar as cargas exportadas mensalmente entre os anos de 2019 a 2024 nos municípios de São Paulo, para ter mais conhecimento sobre as cargas exportadas entre esse período de tempo |
-| Criar um gráfico de exportação dos municípios de São Paulo | Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados de exportação de cada município do estado de São Paulo, para ter mais conhecimento sobre as exportções municipais |
-| Criar um gráfico com as 5 maiores exportações de cada município | Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados das 5 maiores exportações de cada município do estado de São Paulo,  para ter maior conhecimento sobre as exportações de cada município |
-| Comparar desempenho comercial de municípios | Eu, como usuário, gostaria de comparar o desempenho comercial de cada município do estado de São Paulo, para ter maior conhecimento sobre as disparidades entre o mercado de cada município detalhadamente |
-| Produtos mais exportados dos municípios do estado de São Paulo | Eu, como usuário, gostaria de filtrar os produtos mais exportados provenientes de cada município do estado de São Paulo, para ter mais conhecimento sobre os produtos mais importantes para  o mercado de cada município |
-| Diversidade de produtos exportados | Eu, como usuário, gostaria de visualizar a diversidade de produtos exportados pelos municípios de São Paulo, para ter maior conhecimento sobre os produtos de cada município |
-| Exibir valores da balança comercial | Eu, como usuário, gostaria de visualizar os valores da balança comercial provenientes do estado de São Paulo, para ter maior conhecimento sobre as diferenças entre as exportações e importações |
-| Exibir padrões de variações sazonais de oferta e demanda que afetam empresas | Eu, como usuário, gostaria de visualizar os padrões de variações sazonais de oferta e demanda que afetam empresas, para ter maior conhecimento sobre como as empresas são afetadas |
-| Mapeamento dos principais fornecedores de cada município de São Paulo | Eu, como usuário, gostaria de visualizar um mapa que apresente dados acerca dos principais fornecedores de cada município, para ter maior conhecimento sobre os maiores fornecedores do estado de São Paulo |
-| Apresentar riscos ocasionais causados pela dependência de mercados específicos | Eu, como usuário, gostaria de visualizar os riscos ocasionais causados pela dependência de mercados específicos, para compreender os riscos ocasionais |
-| Criar projeções do desempenho comercial futuro de cada município de São Paulo | Eu, como usuário, gostaria de visualizar projeções do desempenho comercial futuro de cada município, para entender melhor o comércio do estado de São Paulo |
-| Correção da inflação | Eu, como usuário, gostaria de visualizar a correção da inflação para análise de dados econômicos, para ter maior conhecimento sobre os ajustes para compensação da perda de valor da moeda |
-| Ferramenta de busca para filtrar cargas por código NCM e aplicar filtros | Eu, como usuário, gostaria de ter acesso a uma ferramenta de pesquisa onde fosse possível filtrar cargas mediante seus códigos NCM e aplicar filtros, para ter uma obtenção de informações facilitada |
+<table style="width: 100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid #ddd;">Requisito</th>
+            <th style="border: 1px solid #ddd;">User Story</th>
+            <th style="border: 1px solid #ddd;">Prioridade</th>
+            <th style="border: 1px solid #ddd;">Estimativa</th>
+            <th style="border: 1px solid #ddd;">Sprint</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid #ddd;">Lista de dados de exportação de todos os municípios de São Paulo</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar uma lista dos municípios do estado de São Paulo e suas exportações, para entender os padrões de comércio internacional</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">13</td>
+            <td style="border: 1px solid #ddd;">1</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Filtrar as cargas dos municípios de São Paulo entre os anos de 2019 até 2024</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de filtrar as cargas exportadas mensalmente entre os anos de 2019 a 2024 nos municípios de São Paulo, para ter mais conhecimento sobre as cargas exportadas entre esse período de tempo</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">13</td>
+            <td style="border: 1px solid #ddd;">2</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Criar um gráfico de exportação dos municípios de São Paulo</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados de exportação de cada município do estado de São Paulo, para ter mais conhecimento sobre as exportções municipais</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">13</td>
+            <td style="border: 1px solid #ddd;">1</td>
+        </tr>
+        <tr> 
+            <td style="border: 1px solid #ddd;">Criar um gráfico com as 5 maiores exportações de cada município</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados das 5 maiores exportações de cada município do estado de São Paulo,  para ter maior conhecimento sobre as exportações de cada município</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">13</td>
+            <td style="border: 1px solid #ddd;">1</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Comparar desempenho comercial de municípios</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de comparar o desempenho comercial de cada município do estado de São Paulo, para ter maior conhecimento sobre as disparidades entre o mercado de cada município detalhadamente</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">8</td>
+            <td style="border: 1px solid #ddd;">2</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Produtos mais exportados dos municípios do estado de São Paulo</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de filtrar os produtos mais exportados provenientes de cada município do estado de São Paulo, para ter mais conhecimento sobre os produtos mais importantes para  o mercado de cada município</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">13</td>
+            <td style="border: 1px solid #ddd;">3</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Diversidade de produtos exportados</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar a diversidade de produtos exportados pelos municípios de São Paulo, para ter maior conhecimento sobre os produtos de cada município</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">8</td>
+            <td style="border: 1px solid #ddd;">3</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Exibir valores da balança comercial</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar os valores da balança comercial provenientes do estado de São Paulo, para ter maior conhecimento sobre as diferenças entre as exportações e importações</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">8</td>
+            <td style="border: 1px solid #ddd;">3</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Exibir padrões de variações sazonais de oferta e demanda que afetam empresas</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar os padrões de variações sazonais de oferta e demanda que afetam empresas, para ter maior conhecimento sobre como as empresas são afetadas</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">8</td>
+            <td style="border: 1px solid #ddd;">2</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Mapeamento dos principais fornecedores de cada município de São Paulo</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar um mapa que apresente dados acerca dos principais fornecedores de cada município, para ter maior conhecimento sobre os maiores fornecedores do estado de São Paulo</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">13</td>
+            <td style="border: 1px solid #ddd;">2</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Apresentar riscos ocasionais causados pela dependência de mercados específicos</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar os riscos ocasionais causados pela dependência de mercados específicos, para compreender os riscos ocasionais</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">5</td>
+            <td style="border: 1px solid #ddd;">3</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Criar projeções do desempenho comercial futuro de cada município de São Paulo</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar projeções do desempenho comercial futuro de cada município, para entender melhor o comércio do estado de São Paulo</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">8</td>
+            <td style="border: 1px solid #ddd;">3</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Correção da inflação</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar a correção da inflação para análise de dados econômicos, para ter maior conhecimento sobre os ajustes para compensação da perda de valor da moeda</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">8</td>
+            <td style="border: 1px solid #ddd;">3</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Ferramenta de busca para filtrar cargas por código NCM e aplicar filtros</td>
+            <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de ter acesso a uma ferramenta de pesquisa onde fosse possível filtrar cargas mediante seus códigos NCM e aplicar filtros, para ter uma obtenção de informações facilitada</td>
+            <td style="border: 1px solid #ddd;">Alta</td>
+            <td style="border: 1px solid #ddd;">13</td>
+            <td style="border: 1px solid #ddd;">2</td>
+        </tr>
+        <tr>
+    </tbody>
+</table>
 
 ---
 
