@@ -78,7 +78,7 @@
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">RNF05</td>
-            <td style="border: 1px solid #ddd;">Desenvolver o back-end utilizando a linguagem Python</td>
+            <td style="border: 1px solid #ddd;">Desenvolver o back-end utilizando a linguagem Python.</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">RNF06</td>
