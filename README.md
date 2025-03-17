@@ -66,7 +66,7 @@
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">RNF02</td>
-            <td style="border: 1px solid #ddd;">O sistemma deve ser respossivo para todos os dispositivos</td>
+            <td style="border: 1px solid #ddd;">O sistemma deve ser respossivo para todos os dispositivos.</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">RNF03</td>
