@@ -7,13 +7,13 @@
 # Índice
 
 * [Projeto](#projeto)
-* [Requisitos](#requisitos)
+* [Requisitos Funcionais e Não Funcionais](#requisitos-funcionais-e-não-funcionais)
 * [Tecnologias e Ferramentas Utilizadas](#tecnologias-e-ferramentas-utilizadas)
 * [Sprints](#sprints)
 * [Backlog](#backlog)
-* [User Story](#user-story)
-* [Funcionalidade e Registro das Sprints](#funcionalidade-e-registro-das-sprints)
-* [Protótipo](#protótipo)
+* [Backlog do Produto](#backlog-do-produto)
+* [Registro de Atividade das Sprints ](#registro-de-atividade-das-sprints)
+* [Protótipo do Figma](#protótipo-do-figma)
 * [Autores](#autores)
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-# Requisitos
+# Requisitos Funcionais e Não Funcionais
 🔗[Clique aqui para visualizar os requisitos do produto](https://docs.google.com/spreadsheets/d/1E7RuFhJ5bi-8nax7y87k7zGJ2A_NBVDxnHbVd0v4pT0/edit?gid=1719630846#gid=1719630846)
 
 
@@ -38,7 +38,7 @@
     <tbody>
         <tr>
             <td style="border: 1px solid #ddd;">RF01</td>
-            <td style="border: 1px solid #ddd;">Segmentação de Município: Apresenta informações detalhadas acerca de cada mmunicípio do estado de São Paulo</td>
+            <td style="border: 1px solid #ddd;">Segmentação de Município: Apresenta informações detalhadas acerca de cada município do estado de São Paulo</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">RF02</td>
@@ -157,7 +157,7 @@
 
 ---
 
-# User Story 
+# Backlog do Produto
 
 <table style="width: 100%; border-collapse: collapse;">
     <thead>
@@ -274,29 +274,29 @@
 
 ---
 
-# Funcionalidade e Registro das Sprints 
+# Registro de Atividade das Sprints 
 
-**Sprint 1**  
-- [ ] Criar uma lista de dados de exportação de todos os municípios de São Paulo 
-- [ ] Criar um gráfico de exportação dos municípios de São Paulo
-- [ ] Criar um gráfico com as 5 maiores exportações de cada município 
-- [ ] Tarefa pendente
+## Sprint 1 
+* Criação do repositório do Github
+* Criação do backlog do produto
+* Criação de um protótipo do Figma
+* Raspagem de dados de exportação
+* Adição de um gráfico de exportação de cada município
+* Adicção de um gráfico com as 5 maiores exportações de cada município
+* Adição de uma lista de exportações dos municípios
+* Criação de um Figma funcional e responsivo
 
-**Sprint 2**  
-- [ ] Tarefa pendente  
-- [ ] Tarefa pendente  
-- [ ] Tarefa pendente  
-- [ ] Tarefa pendente
+## Sprint 2
+* Tarefa não atribuída
+* Tarefa não atribuída
 
-**Sprint 3**  
-- [ ] Tarefa pendente  
-- [ ] Tarefa pendente  
-- [ ] Tarefa pendente  
-- [ ] Tarefa pendente
+## Sprint 3
+* Tarefa não atribuída
+* Tarefa não atribuída
 
 ---
 
-# Protótipo
+# Protótipo do Figma
 🔗[Clique aqui para visualizar o modelo do projeto](https://www.figma.com/design/hDo9erWlNFuP3vs8ZiT6Ic/API?m=auto&t=nKZ6A3GWMeeH2L9A-1)
 
 > **Imagens do protótipo**
