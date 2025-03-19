@@ -277,22 +277,21 @@
 # Registro de Atividade das Sprints 
 
 ## Sprint 1 
-* Criação do repositório do Github
-* Criação do backlog do produto
-* Criação de um protótipo do Figma
-* Raspagem de dados de exportação
-* Adição de um gráfico de exportação de cada município
-* Adicção de um gráfico com as 5 maiores exportações de cada município
-* Adição de uma lista de exportações dos municípios
-* Criação de um Figma funcional e responsivo
+- [x] Criação do repositório do Github
+- [x] Criação do backlog do produto
+- [x] Criação de um protótipo do Figma
+- [ ] Desenvolvimento de um gráfico de exportação de cada município
+- [ ] Desenvimento de um gráfico com as 5 maiores exportações de cada município
+- [ ] Desenvolvimento de uma lista de exportações dos municípios
+- [ ] Criação de um Figma funcional e responsivo
 
 ## Sprint 2
-* Tarefa não atribuída
-* Tarefa não atribuída
+- [ ] Tarefa não atribuída
+- [ ] Tarefa não atribuída
 
 ## Sprint 3
-* Tarefa não atribuída
-* Tarefa não atribuída
+- [ ] Tarefa não atribuída
+- [ ] Tarefa não atribuída
 
 ---
 
