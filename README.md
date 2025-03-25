@@ -31,21 +31,21 @@
 <table style="width: 100%; border-collapse: collapse;">
     <thead>
         <tr>
-            <th style="border: 1px solid #ddd;">ID</th>
+            <th style="border: 1px solid #ddd; text-align: center;">ID</th>
             <th style="border: 1px solid #ddd;">Requisitos Funcionais</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="border: 1px solid #ddd;">RF01</td>
+            <td style="border: 1px solid #ddd; text-align: center;">RF01</td>
             <td style="border: 1px solid #ddd;">Segmentação de Município: Apresenta informações detalhadas acerca de cada município do estado de São Paulo</td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">RF02</td>
+            <td style="border: 1px solid #ddd; text-align: center;">RF02</td>
             <td style="border: 1px solid #ddd;">Busca e filtros: Ferramentas que permitam buscar cargas por código NCM e aplicar filtros personalizados para análise específica</td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">RF03</td>
+            <td style="border: 1px solid #ddd; text-align: center;">RF03</td>
             <td style="border: 1px solid #ddd;">Painel de Estatísticas: Visualização gráfica interatica, apresentando a evolução da balança comercial dos municípios no período de 2019 a 2024</td>
         </tr>
     </tbody>
@@ -55,45 +55,45 @@
         </td>
     <thead>
         <tr>
-            <th style="border: 1px solid #ddd;">ID</th>
-            <th style="border: 1px solid #ddd;">Requisitos Funcionais</th>
+            <th style="border: 1px solid #ddd; text-align: center;">ID</th>
+            <th style="border: 1px solid #ddd;">Requisitos Não Funcionais</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td style="border: 1px solid #ddd;">RNF01</td>
+            <td style="border: 1px solid #ddd; text-align: center;">RNF01</td>
             <td style="border: 1px solid #ddd;">Utilizar a ferramenta Google Colab para preparar a base de dados do projeto</td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">RNF02</td>
+            <td style="border: 1px solid #ddd; text-align: center;">RNF02</td>
             <td style="border: 1px solid #ddd;">O sistemma deve ser respossivo para todos os dispositivos.</td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">RNF03</td>
+            <td style="border: 1px solid #ddd; text-align: center;">RNF03</td>
             <td style="border: 1px solid #ddd;">O HTML5 deve ser utilizado para a arquitetura da informação do site</td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">RNF04</td>
+            <td style="border: 1px solid #ddd; text-align: center;">RNF04</td>
             <td style="border: 1px solid #ddd;">Utilizar o GIthub para ter controle sob a versão dos artefatos do projeto</td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">RNF05</td>
+            <td style="border: 1px solid #ddd; text-align: center;">RNF05</td>
             <td style="border: 1px solid #ddd;">Desenvolver o back-end utilizando a linguagem Python</td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">RNF06</td>
+            <td style="border: 1px solid #ddd; text-align: center;">RNF06</td>
             <td style="border: 1px solid #ddd;">O CSS3 deve ser utilizado para definição do layout e demais características de renderizações</td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">RNF07</td>
+            <td style="border: 1px solid #ddd; text-align: center;">RNF07</td>
             <td style="border: 1px solid #ddd;">Desenvolver uma interface interativa e de fácil compreensão</td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">RNF08</td>
+            <td style="border: 1px solid #ddd; text-align: center;">RNF08</td>
             <td style="border: 1px solid #ddd;">O MSQL/MariaDB devem ser utilizados como sistemas gerenciadores de banco de dados</td>
         </tr>
         <tr>
-            <td style="border: 1px solid #ddd;">RNF09</td>
+            <td style="border: 1px solid #ddd; text-align: center;">RNF09</td>
             <td style="border: 1px solid #ddd;">Evitar a utilização de framework de mapeamento objeto-relacional para implementação de operações em banco de dados</td>
         </tr>
     </tbody>
@@ -102,12 +102,46 @@
 ---
 
 #  Tecnologias e Ferramentas Utilizadas
-![FIGMA](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)
-![Google Colab](https://img.shields.io/badge/Google_Colab-FFFFFF?style=for-the-badge&logo=googlecolab)
-![Google Planilhas](https://img.shields.io/badge/Google_Sheets-FFFFFF?style=for-the-badge&logo=googlesheets)
-![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6) ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python)  
+
+
+<div align="center">
+  <table>
+  <tr>
+    <td align="center" width="70">
+      <img src="documentation/images/figma.svg" width="48" height="48" alt="HTML" />
+      <span>FIGMA</span>
+    </td>
+    <td align="center" width="70">
+      <img src="documentation/images/html5.svg" width="48" height="48" alt="HTML" />
+      <span>HTML5</span>
+    </td>
+    <td align="center" width="70">
+      <img src="documentation/images/css3.svg" width="48" height="48" alt="HTML" />
+      <span>CSS3</span>
+    </td>
+    <td align="center" width="70">
+      <img src="documentation/images/python.svg" width="48" height="48" alt="HTML" />
+      <span>PYTHON</span>
+    </td>
+    <td align="center" width="70">
+      <img src="documentation/images/google-sheets.svg" width="48" height="48" alt="HTML" />
+      <span>SHEETS</span>
+    </td>
+    <td align="center" width="70">
+      <img src="documentation/images/google-colab.svg" width="48" height="48" alt="HTML" />
+      <span>COLAB</span>
+    </td>
+    <td align="center" width="70">
+      <img src="documentation/images/jira.png" width="48" height="48" alt="HTML" />
+      <span>JIRA</span>
+    </td>
+    <td align="center" width="70">
+      <img src="documentation/images/discord.png" width="48" height="48" alt="HTML" />
+      <span>DISCORD</span>
+    </td>
+    </tr>
+    </table>
+</div>   
 
 ---
 
@@ -130,22 +164,22 @@
         <tr>
             <td style="border: 1px solid #ddd;">Sprint 1</td>
             <td style="border: 1px solid #ddd;">10/03/2025 - 30/03/2025</td>
-            <td style="border: 1px solid #ddd;">Status</td>
+            <td style="border: 1px solid #ddd;">Em andamento</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Sprint 2</td>
             <td style="border: 1px solid #ddd;">07/04/2025 - 27/04/2025</td>
-            <td style="border: 1px solid #ddd;">Status</td>
+            <td style="border: 1px solid #ddd;">Em expectativa</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Sprint 3</td>
             <td style="border: 1px solid #ddd;">05/05/2025 - 25/05/2025</td>
-            <td style="border: 1px solid #ddd;">Status</td>
+            <td style="border: 1px solid #ddd;">Em expectativa</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Feira de Soluções</td>
             <td style="border: 1px solid #ddd;">29/06/2025</td>
-            <td style="border: 1px solid #ddd;">Status</td>
+            <td style="border: 1px solid #ddd;">Em expectativa</td>
         </tr>
     </tbody>
 </table>    
@@ -162,115 +196,115 @@
 <table style="width: 100%; border-collapse: collapse;">
     <thead>
         <tr>
-            <th style="border: 1px solid #ddd;">Requisito</th>
-            <th style="border: 1px solid #ddd;">User Story</th>
-            <th style="border: 1px solid #ddd;">Prioridade</th>
-            <th style="border: 1px solid #ddd;">Estimativa</th>
-            <th style="border: 1px solid #ddd;">Sprint</th>
+            <th style="border: 1px solid #ddd; text-align: center">Requisito</th>
+            <th style="border: 1px solid #ddd; text-align: center">User Story</th>
+            <th style="border: 1px solid #ddd; text-align: center;">Prioridade</th>
+            <th style="border: 1px solid #ddd; text-align: center;">Estimativa</th>
+            <th style="border: 1px solid #ddd; text-align: center;">Sprint</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td style="border: 1px solid #ddd;">Lista de dados de exportação de todos os municípios de São Paulo</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar uma lista dos municípios do estado de São Paulo e suas exportações, para entender os padrões de comércio internacional</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">13</td>
-            <td style="border: 1px solid #ddd;">1</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">13</td>
+            <td style="border: 1px solid #ddd; text-align: center;">1</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Filtrar as cargas dos municípios de São Paulo entre os anos de 2019 até 2024</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de filtrar as cargas exportadas mensalmente entre os anos de 2019 a 2024 nos municípios de São Paulo, para ter mais conhecimento sobre as cargas exportadas entre esse período de tempo</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">13</td>
-            <td style="border: 1px solid #ddd;">2</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">13</td>
+            <td style="border: 1px solid #ddd; text-align: center;">2</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Criar um gráfico de exportação dos municípios de São Paulo</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados de exportação de cada município do estado de São Paulo, para ter mais conhecimento sobre as exportções municipais</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">13</td>
-            <td style="border: 1px solid #ddd;">1</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">13</td>
+            <td style="border: 1px solid #ddd; text-align: center;">1</td>
         </tr>
         <tr> 
             <td style="border: 1px solid #ddd;">Criar um gráfico com as 5 maiores exportações de cada município</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de um gráfico onde fosse possível visualizar os dados das 5 maiores exportações de cada município do estado de São Paulo,  para ter maior conhecimento sobre as exportações de cada município</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">13</td>
-            <td style="border: 1px solid #ddd;">1</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">13</td>
+            <td style="border: 1px solid #ddd; text-align: center;">1</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Comparar desempenho comercial de municípios</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de comparar o desempenho comercial de cada município do estado de São Paulo, para ter maior conhecimento sobre as disparidades entre o mercado de cada município detalhadamente</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">8</td>
-            <td style="border: 1px solid #ddd;">2</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">8</td>
+            <td style="border: 1px solid #ddd; text-align: center;">2</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Produtos mais exportados dos municípios do estado de São Paulo</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de filtrar os produtos mais exportados provenientes de cada município do estado de São Paulo, para ter mais conhecimento sobre os produtos mais importantes para  o mercado de cada município</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">13</td>
-            <td style="border: 1px solid #ddd;">3</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">13</td>
+            <td style="border: 1px solid #ddd; text-align: center;">3</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Diversidade de produtos exportados</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar a diversidade de produtos exportados pelos municípios de São Paulo, para ter maior conhecimento sobre os produtos de cada município</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">8</td>
-            <td style="border: 1px solid #ddd;">3</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">8</td>
+            <td style="border: 1px solid #ddd; text-align: center;">3</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Exibir valores da balança comercial</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar os valores da balança comercial provenientes do estado de São Paulo, para ter maior conhecimento sobre as diferenças entre as exportações e importações</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">8</td>
-            <td style="border: 1px solid #ddd;">3</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">8</td>
+            <td style="border: 1px solid #ddd; text-align: center;">3</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Exibir padrões de variações sazonais de oferta e demanda que afetam empresas</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar os padrões de variações sazonais de oferta e demanda que afetam empresas, para ter maior conhecimento sobre como as empresas são afetadas</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">8</td>
-            <td style="border: 1px solid #ddd;">2</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">8</td>
+            <td style="border: 1px solid #ddd; text-align: center;">2</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Mapeamento dos principais fornecedores de cada município de São Paulo</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar um mapa que apresente dados acerca dos principais fornecedores de cada município, para ter maior conhecimento sobre os maiores fornecedores do estado de São Paulo</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">13</td>
-            <td style="border: 1px solid #ddd;">2</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">13</td>
+            <td style="border: 1px solid #ddd; text-align: center;">2</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Apresentar riscos ocasionais causados pela dependência de mercados específicos</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar os riscos ocasionais causados pela dependência de mercados específicos, para compreender os riscos ocasionais</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">5</td>
-            <td style="border: 1px solid #ddd;">3</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">5</td>
+            <td style="border: 1px solid #ddd; text-align: center;">3</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Criar projeções do desempenho comercial futuro de cada município de São Paulo</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar projeções do desempenho comercial futuro de cada município, para entender melhor o comércio do estado de São Paulo</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">8</td>
-            <td style="border: 1px solid #ddd;">3</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">8</td>
+            <td style="border: 1px solid #ddd; text-align: center;">3</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Correção da inflação</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de visualizar a correção da inflação para análise de dados econômicos, para ter maior conhecimento sobre os ajustes para compensação da perda de valor da moeda</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">8</td>
-            <td style="border: 1px solid #ddd;">3</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">8</td>
+            <td style="border: 1px solid #ddd; text-align: center;">3</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd;">Ferramenta de busca para filtrar cargas por código NCM e aplicar filtros</td>
             <td style="border: 1px solid #ddd;">Eu, como usuário, gostaria de ter acesso a uma ferramenta de pesquisa onde fosse possível filtrar cargas mediante seus códigos NCM e aplicar filtros, para ter uma obtenção de informações facilitada</td>
-            <td style="border: 1px solid #ddd;">Alta</td>
-            <td style="border: 1px solid #ddd;">13</td>
-            <td style="border: 1px solid #ddd;">2</td>
+            <td style="border: 1px solid #ddd; text-align: center;">Alta</td>
+            <td style="border: 1px solid #ddd; text-align: center;">13</td>
+            <td style="border: 1px solid #ddd; text-align: center;">2</td>
         </tr>
-        <tr>
     </tbody>
 </table>
+
 
 ---
 
@@ -285,13 +319,13 @@
 - [ ] Desenvolvimento de uma lista de exportações dos municípios
 - [ ] Criação de um Figma funcional e responsivo
 
-## Sprint 2
+<!-- ## Sprint 2
 - [ ] Tarefa não atribuída
 - [ ] Tarefa não atribuída
 
 ## Sprint 3
 - [ ] Tarefa não atribuída
-- [ ] Tarefa não atribuída
+- [ ] Tarefa não atribuída -->
 
 ---
 
@@ -315,16 +349,123 @@
 ---
 
 # Autores
-| Função | Nome | GitHub | LinkedIn |
-|--------|------|--------|----------|
-| Scrum Master (SM) | Maria Fernanda de Oliveira Laboissiere | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mariaflbss) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-de-oliveira-laboissiere-25362b353/) |
-| Product Owner (PO) | Rafael Guimarães da Silva Oliveira | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/PatoJosefo) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rafael-oliveira-3603a7355) |
-| Team Member | Giovanni Martins de Melo Neves | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Giommn) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-martins-216995356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| Team Member | Heloisa Cardillo Lima | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/heloisa-cardillo) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heloisa-cardillo-lima) |
-| Team Member | João Eduardo Oliveira Santos | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joao-ed252) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-eduardo-o-9110332a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| Team Member | Vinicius Silva Moreira | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vinismoreira) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-moreira-806105350) |
-| Team Member | Talita de Lania Marques | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/talitamarques30) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/talitamarques30) |
-| Team Member | Victor Chagas de Jesus | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/victorchagas-93) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorchagas93/) |
+
+<table style="width: 100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid #ddd;">Função</th>
+            <th style="border: 1px solid #ddd;">Nome</th>
+            <th style="border: 1px solid #ddd; text-align: center;">GitHub</th>
+            <th style="border: 1px solid #ddd; text-align: center;">LinkedIn</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid #ddd;">Scrum Master (SM)</td>
+            <td style="border: 1px solid #ddd;">Maria Fernanda de Oliveira Laboissiere</td>
+            <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://github.com/mariaflbss" target="_blank">
+                    <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+                </a>
+                 <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://www.linkedin.com/in/maria-fernanda-de-oliveira-laboissiere-25362b353" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                </a>
+            </td>
+        </tr> 
+        <tr>
+            <td style="border: 1px solid #ddd;">Product Owner (PO)</td>
+            <td style="border: 1px solid #ddd;">Rafael Guimarães da Silva Oliveira</td>
+            <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://github.com/PatoJosefo" target="_blank">
+                    <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+                </a>
+                 <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://br.linkedin.com/in/rafael-oliveira-3603a7355" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Team Member</td>
+            <td style="border: 1px solid #ddd;">Giovanni Martins de Melo Neves</td>
+            <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://github.com/Giommn" target="_blank">
+                    <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+                </a>
+                 <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://www.linkedin.com/in/giovanni-martins-216995356" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Team Member</td>
+            <td style="border: 1px solid #ddd;">Heloisa Cardillo Lima</td>
+            <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://github.com/heloisa-cardillo" target="_blank">
+                    <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+                </a>
+                 <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://www.linkedin.com/in/heloisa-cardillo-lima" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Team Member</td>
+            <td style="border: 1px solid #ddd;">João Eduardo Oliveira Santos</td>
+            <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://github.com/joao-ed252" target="_blank">
+                    <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+                </a>
+                 <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://www.linkedin.com/in/jo%C3%A3o-eduardo-o-9110332a2" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Team Member</td>
+            <td style="border: 1px solid #ddd;">Talita de Lania Marques</td>
+            <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://github.com/talitamarques30" target="_blank">
+                    <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+                </a>
+                 <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://br.linkedin.com/in/talitamarques30" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Team Member</td>
+            <td style="border: 1px solid #ddd;">Victor Chagas de Jesus</td>
+            <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://github.com/victorchagas-93" target="_blank">
+                    <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+                </a>
+                 <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://www.linkedin.com/in/victorchagas93" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd;">Team Member</td>
+            <td style="border: 1px solid #ddd;">Vinicius Silva Moreira</td>
+            <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="https://github.com/vinismoreira" target="_blank">
+                    <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+                </a>
+                 <td style="border: 1px solid #ddd; text-align: center;">
+                <a href="www.linkedin.com/in/vinicius-moreira-806105350" target="_blank">
+                    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+                </a>
+            </td>
+        </tr>
+    </thead>
+</table>
 
 ---
 [Voltar ao topo](#aprendizado-por-projeto-integrado-api-1-semestre---nexus)
