@@ -1,6 +1,5 @@
-# Aprendizado por Projeto Integrado (API) 1° semestre - NEXUS
-> Nome do grupo: Nexus  
-> Curso: Desenvolvimento de Software Multiplataforma
+# NEXUS
+
 
 ---
 
@@ -468,4 +467,4 @@
 </table>
 
 ---
-[Voltar ao topo](#aprendizado-por-projeto-integrado-api-1-semestre---nexus)
+[Voltar ao topo](#nexus)
